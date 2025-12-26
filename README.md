@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Yanisley
-📌Software Engineering student at Florida Gulf Coast University.<br>📌Interested in Cybersecurity.<br>65🔜currently working on personal projects to improve my cybersecurity knowledge. 
+📌 Software Engineering student at Florida Gulf Coast University.<br>📌 Interested in Cybersecurity.<br>🔜 currently working on personal projects to improve my cybersecurity knowledge. 
 
 
 # 💻 Tech Stack:
